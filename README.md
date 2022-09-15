@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/3x2dg91lb8kjsmuj?svg=true)](https://ci.appveyor.com/project/Yana-kalugina/carddelivery)
